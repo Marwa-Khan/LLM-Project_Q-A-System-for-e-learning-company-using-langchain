@@ -136,6 +136,3 @@ GOOGLE_API_KEY=your_actual_api_key_here
 
 Feel free to contribute to this project by submitting issues or pull requests.
 
-## 📄 License
-
-This project is open source and available under the MIT License.
