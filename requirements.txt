@@ -1,6 +1,11 @@
 langchain==0.0.284
+langchain-google-genai==1.0.10
+langchain-community==0.0.38
 python-dotenv==1.0.0
 streamlit==1.22.0
 tiktoken==0.4.0
 faiss-cpu==1.7.4
 protobuf~=3.19.0
+google-generativeai==0.3.2
+sentence-transformers==2.2.2
+InstructorEmbedding==1.0.1
